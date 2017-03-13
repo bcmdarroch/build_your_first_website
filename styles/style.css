@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  font-family: serif;
+  color: #8DF3FF;
+  background: linear-gradient(#444444, #262626);
+  font-size: 20px;
+}
+
+header {
+  /*background-color: #262626;*/
+}
+
+main {
+  /*background-color: #585858;*/
+}
+
+footer {
+  /*background-color: #a7a7a7;*/
+}
+
+h1 {
+  color: #FF1993;
+  font-family: 'Permanent Marker', cursive;
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+h2 {
+  color: #20A3B2;
+  font-family: monospace;
+}
+
+h3 {
+  color: blue;
+  font-family: cursive;
+}
+
+nav {
+  color: red;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+p {
+  color: #8DF3FF;
+  font-family: Trebuchet MS, sans-serif;
+}
+
+ul {
+  color: #E80C7A;
+  list-style: none;
+}
+
+ol {
+  color: #E80C7A;
+  list-style: none;
+}
